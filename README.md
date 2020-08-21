@@ -6,6 +6,8 @@ Technically, The Encoder uses a pretrained resnet model to output feature vector
 
 The complete architecture was trained on (MS COCO) dataset and was tested on novel images to automatically generate captions!
 
+![Model Prediction](/images/prediction.png)  
+
 Paper References: 
 1) https://arxiv.org/pdf/1411.4555.pdf
 2) https://arxiv.org/pdf/1502.03044.pdf
